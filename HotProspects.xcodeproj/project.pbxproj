@@ -7,18 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F898D31D2C68EE4C00AE6436 /* CustomRowSwipeActionsContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D31C2C68EE4C00AE6436 /* CustomRowSwipeActionsContainerView.swift */; };
+		F898D31F2C68EFAE00AE6436 /* LocalNotificationsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D31E2C68EFAE00AE6436 /* LocalNotificationsContentView.swift */; };
+		F898D3222C68F46900AE6436 /* SamplePackage in Frameworks */ = {isa = PBXBuildFile; productRef = F898D3212C68F46900AE6436 /* SamplePackage */; };
+		F898D3242C68F4BB00AE6436 /* SPMContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D3232C68F4BB00AE6436 /* SPMContentView.swift */; };
+		F898D3262C68F94200AE6436 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D3252C68F94200AE6436 /* ProspectsView.swift */; };
+		F898D3282C68F94C00AE6436 /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D3272C68F94C00AE6436 /* MeView.swift */; };
+		F898D32A2C68FC0600AE6436 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D3292C68FC0600AE6436 /* Prospect.swift */; };
+		F898D32D2C6902CD00AE6436 /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = F898D32C2C6902CD00AE6436 /* CodeScanner */; };
+		F898D32F2C69868A00AE6436 /* EditProspectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F898D32E2C69868A00AE6436 /* EditProspectView.swift */; };
+		F89EE5762C6863A20049DDA5 /* SelectingListItemContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE5732C6863A20049DDA5 /* SelectingListItemContentView.swift */; };
+		F89EE5772C6863A20049DDA5 /* TabViewContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE5742C6863A20049DDA5 /* TabViewContentView.swift */; };
+		F89EE5792C68645F0049DDA5 /* ResultsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE5782C68645F0049DDA5 /* ResultsContentView.swift */; };
+		F89EE57C2C68659B0049DDA5 /* ShaftConnector.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE57B2C68659B0049DDA5 /* ShaftConnector.swift */; };
+		F89EE5802C6869020049DDA5 /* certadmin.cer in Resources */ = {isa = PBXBuildFile; fileRef = F89EE57F2C6868FD0049DDA5 /* certadmin.cer */; };
+		F89EE5822C686B490049DDA5 /* ImageInterpolationContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE5812C686B490049DDA5 /* ImageInterpolationContentView.swift */; };
+		F89EE5842C686C680049DDA5 /* ContextMenuContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EE5832C686C680049DDA5 /* ContextMenuContainerView.swift */; };
 		F8CBE9462C685E1D00F37018 /* HotProspectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CBE9452C685E1D00F37018 /* HotProspectsApp.swift */; };
-		F8CBE9482C685E1D00F37018 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CBE9472C685E1D00F37018 /* ContentView.swift */; };
 		F8CBE94A2C685E1E00F37018 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8CBE9492C685E1E00F37018 /* Assets.xcassets */; };
 		F8CBE94D2C685E1E00F37018 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8CBE94C2C685E1E00F37018 /* Preview Assets.xcassets */; };
+		F8CBE9562C68629900F37018 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CBE9552C68629900F37018 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F898D31C2C68EE4C00AE6436 /* CustomRowSwipeActionsContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomRowSwipeActionsContainerView.swift; sourceTree = "<group>"; };
+		F898D31E2C68EFAE00AE6436 /* LocalNotificationsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsContentView.swift; sourceTree = "<group>"; };
+		F898D3232C68F4BB00AE6436 /* SPMContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SPMContentView.swift; sourceTree = "<group>"; };
+		F898D3252C68F94200AE6436 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
+		F898D3272C68F94C00AE6436 /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
+		F898D3292C68FC0600AE6436 /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
+		F898D32E2C69868A00AE6436 /* EditProspectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProspectView.swift; sourceTree = "<group>"; };
+		F89EE5732C6863A20049DDA5 /* SelectingListItemContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectingListItemContentView.swift; sourceTree = "<group>"; };
+		F89EE5742C6863A20049DDA5 /* TabViewContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewContentView.swift; sourceTree = "<group>"; };
+		F89EE5782C68645F0049DDA5 /* ResultsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsContentView.swift; sourceTree = "<group>"; };
+		F89EE57B2C68659B0049DDA5 /* ShaftConnector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaftConnector.swift; sourceTree = "<group>"; };
+		F89EE57F2C6868FD0049DDA5 /* certadmin.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = certadmin.cer; sourceTree = "<group>"; };
+		F89EE5812C686B490049DDA5 /* ImageInterpolationContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageInterpolationContentView.swift; sourceTree = "<group>"; };
+		F89EE5832C686C680049DDA5 /* ContextMenuContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuContainerView.swift; sourceTree = "<group>"; };
 		F8CBE9422C685E1D00F37018 /* HotProspects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotProspects.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8CBE9452C685E1D00F37018 /* HotProspectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotProspectsApp.swift; sourceTree = "<group>"; };
-		F8CBE9472C685E1D00F37018 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8CBE9492C685E1E00F37018 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8CBE94C2C685E1E00F37018 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8CBE9552C68629900F37018 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,12 +56,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F898D32D2C6902CD00AE6436 /* CodeScanner in Frameworks */,
+				F898D3222C68F46900AE6436 /* SamplePackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F89EE5752C6863A20049DDA5 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				F89EE5732C6863A20049DDA5 /* SelectingListItemContentView.swift */,
+				F89EE5742C6863A20049DDA5 /* TabViewContentView.swift */,
+				F89EE5782C68645F0049DDA5 /* ResultsContentView.swift */,
+				F898D3232C68F4BB00AE6436 /* SPMContentView.swift */,
+				F89EE5812C686B490049DDA5 /* ImageInterpolationContentView.swift */,
+				F89EE5832C686C680049DDA5 /* ContextMenuContainerView.swift */,
+				F898D31C2C68EE4C00AE6436 /* CustomRowSwipeActionsContainerView.swift */,
+				F898D31E2C68EFAE00AE6436 /* LocalNotificationsContentView.swift */,
+			);
+			path = Playgrounds;
+			sourceTree = "<group>";
+		};
+		F89EE57A2C6865910049DDA5 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				F89EE57B2C68659B0049DDA5 /* ShaftConnector.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
 		F8CBE9392C685E1D00F37018 = {
 			isa = PBXGroup;
 			children = (
@@ -51,9 +106,14 @@
 		F8CBE9442C685E1D00F37018 /* HotProspects */ = {
 			isa = PBXGroup;
 			children = (
+				F89EE57A2C6865910049DDA5 /* Network */,
+				F8CBE95A2C6862AB00F37018 /* Extensions */,
+				F8CBE9592C6862A700F37018 /* Models */,
+				F8CBE9582C6862A300F37018 /* Views */,
+				F8CBE9572C68629C00F37018 /* ViewModels */,
 				F8CBE9452C685E1D00F37018 /* HotProspectsApp.swift */,
-				F8CBE9472C685E1D00F37018 /* ContentView.swift */,
 				F8CBE9492C685E1E00F37018 /* Assets.xcassets */,
+				F89EE57F2C6868FD0049DDA5 /* certadmin.cer */,
 				F8CBE94B2C685E1E00F37018 /* Preview Content */,
 			);
 			path = HotProspects;
@@ -65,6 +125,40 @@
 				F8CBE94C2C685E1E00F37018 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F8CBE9572C68629C00F37018 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		F8CBE9582C6862A300F37018 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F89EE5752C6863A20049DDA5 /* Playgrounds */,
+				F8CBE9552C68629900F37018 /* ContentView.swift */,
+				F898D3252C68F94200AE6436 /* ProspectsView.swift */,
+				F898D32E2C69868A00AE6436 /* EditProspectView.swift */,
+				F898D3272C68F94C00AE6436 /* MeView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F8CBE9592C6862A700F37018 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F898D3292C68FC0600AE6436 /* Prospect.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F8CBE95A2C6862AB00F37018 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +177,10 @@
 			dependencies = (
 			);
 			name = HotProspects;
+			packageProductDependencies = (
+				F898D3212C68F46900AE6436 /* SamplePackage */,
+				F898D32C2C6902CD00AE6436 /* CodeScanner */,
+			);
 			productName = HotProspects;
 			productReference = F8CBE9422C685E1D00F37018 /* HotProspects.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +209,10 @@
 				Base,
 			);
 			mainGroup = F8CBE9392C685E1D00F37018;
+			packageReferences = (
+				F898D3202C68F46900AE6436 /* XCRemoteSwiftPackageReference "SamplePackage" */,
+				F898D32B2C6902CD00AE6436 /* XCRemoteSwiftPackageReference "CodeScanner" */,
+			);
 			productRefGroup = F8CBE9432C685E1D00F37018 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +229,7 @@
 			files = (
 				F8CBE94D2C685E1E00F37018 /* Preview Assets.xcassets in Resources */,
 				F8CBE94A2C685E1E00F37018 /* Assets.xcassets in Resources */,
+				F89EE5802C6869020049DDA5 /* certadmin.cer in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +240,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CBE9482C685E1D00F37018 /* ContentView.swift in Sources */,
+				F898D3262C68F94200AE6436 /* ProspectsView.swift in Sources */,
+				F89EE57C2C68659B0049DDA5 /* ShaftConnector.swift in Sources */,
+				F898D3242C68F4BB00AE6436 /* SPMContentView.swift in Sources */,
+				F898D32A2C68FC0600AE6436 /* Prospect.swift in Sources */,
+				F898D32F2C69868A00AE6436 /* EditProspectView.swift in Sources */,
+				F89EE5842C686C680049DDA5 /* ContextMenuContainerView.swift in Sources */,
 				F8CBE9462C685E1D00F37018 /* HotProspectsApp.swift in Sources */,
+				F898D31D2C68EE4C00AE6436 /* CustomRowSwipeActionsContainerView.swift in Sources */,
+				F89EE5822C686B490049DDA5 /* ImageInterpolationContentView.swift in Sources */,
+				F89EE5762C6863A20049DDA5 /* SelectingListItemContentView.swift in Sources */,
+				F8CBE9562C68629900F37018 /* ContentView.swift in Sources */,
+				F898D31F2C68EFAE00AE6436 /* LocalNotificationsContentView.swift in Sources */,
+				F89EE5772C6863A20049DDA5 /* TabViewContentView.swift in Sources */,
+				F89EE5792C68645F0049DDA5 /* ResultsContentView.swift in Sources */,
+				F898D3282C68F94C00AE6436 /* MeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,11 +391,14 @@
 				DEVELOPMENT_TEAM = G6HATL4S2M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to scan QR codes";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We want to save yout QR code";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,11 +423,14 @@
 				DEVELOPMENT_TEAM = G6HATL4S2M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to scan QR codes";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We want to save yout QR code";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -344,6 +466,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F898D3202C68F46900AE6436 /* XCRemoteSwiftPackageReference "SamplePackage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/SamplePackage";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		F898D32B2C6902CD00AE6436 /* XCRemoteSwiftPackageReference "CodeScanner" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/CodeScanner";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F898D3212C68F46900AE6436 /* SamplePackage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F898D3202C68F46900AE6436 /* XCRemoteSwiftPackageReference "SamplePackage" */;
+			productName = SamplePackage;
+		};
+		F898D32C2C6902CD00AE6436 /* CodeScanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F898D32B2C6902CD00AE6436 /* XCRemoteSwiftPackageReference "CodeScanner" */;
+			productName = CodeScanner;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F8CBE93A2C685E1D00F37018 /* Project object */;
 }
